@@ -177,7 +177,7 @@
                                       <td style="width:100px;"> <a href="${URL_HOSTER_SITE}" target="_blank">
           
       <img
-         height="auto" src="/assets/img/logo-small.png" style="border:0;display:block;outline:none;text-decoration:none;height:auto;width:100%;" width="100"
+         alt="Enscale" height="auto" src="/email-enscale-Logo.png" style="border:0;display:block;outline:none;text-decoration:none;height:auto;width:100%;" width="100"
       />
     
         </a> </td>
@@ -194,7 +194,7 @@
                                       <td style="width:300px;" class="full-width-mobile"> <a href="${URL_HOSTER_SITE}" target="_blank">
           
       <img
-         height="auto" src="/assets/img/logo-small.png" style="border:0;display:block;outline:none;text-decoration:none;height:auto;width:100%;" width="300"
+         alt="Enscale" height="auto" src="/email-hero-image-enscale.png" style="border:0;display:block;outline:none;text-decoration:none;height:auto;width:100%;" width="300"
       />
     
         </a> </td>
